@@ -37,7 +37,7 @@ SUBDIRS := \
 . \
 core/core \
 libraries/AccelStepper \
-libraries/Arduino-PID-Library-master \
 libraries/HX711 \
+libraries/Arduino-PID-Library-master \
 libraries/StepperDriver-master/src \
 

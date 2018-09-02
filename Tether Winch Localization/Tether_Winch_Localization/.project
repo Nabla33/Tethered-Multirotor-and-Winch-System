@@ -47,19 +47,9 @@
 			<location>C:/Users/Srijal/Documents/Arduino/libraries/AccelStepper</location>
 		</link>
 		<link>
-			<name>libraries/Arduino-PID-Library-master</name>
-			<type>2</type>
-			<location>C:/Users/Srijal/Documents/Arduino/libraries/Arduino-PID-Library-master</location>
-		</link>
-		<link>
 			<name>libraries/HX711</name>
 			<type>2</type>
 			<location>C:/Users/Srijal/Documents/Arduino/libraries/HX711</location>
-		</link>
-		<link>
-			<name>libraries/StepperDriver-master</name>
-			<type>2</type>
-			<location>C:/Users/Srijal/Documents/Arduino/libraries/StepperDriver-master</location>
 		</link>
 	</linkedResources>
 </projectDescription>
